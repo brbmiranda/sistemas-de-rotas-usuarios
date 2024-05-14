@@ -2,5 +2,5 @@
 
 
 - Aplicação back end desenvolvida utilizando Método HTTP (GET, POST, PUT/PATCH, DELETE) para criação de usuarios.
-- Sistema de rotas utilizando Express
-- Ferramenta Thunderclient. 
+- Express
+- Thunderclient. 
